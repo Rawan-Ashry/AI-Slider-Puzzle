@@ -1,3 +1,10 @@
+# 🎯 100 Code in 100 Days – Challenge 
+
+This is *project no.2* in my **100 Code in 100 Days challenge!** 🚀 I’m committing to coding a new project every day and sharing my progress on GitHub.
+
+📌 ***Follow my journey here***: [www.linkedin.com/in/rawan-ashry-621b10343
+](https://www.linkedin.com/in/rawan-ashry-621b10343?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 # AI Slider Puzzle 🎮🤖
 
 A sliding puzzle game (8-puzzle, 15-puzzle, and 24-puzzle) with an AI solver powered by the A* algorithm. The project uses PyQt5 to provide a sleek graphical user interface with board size selection and animated AI moves.
